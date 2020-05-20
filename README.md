@@ -1,2 +1,2 @@
 # Self-Driving-car-speed
-Using deep learning and computer vision to predict speed from dashcam video
+Using the flowNet architecture and Nvidia CNN to predict speed from a dashcam video.
